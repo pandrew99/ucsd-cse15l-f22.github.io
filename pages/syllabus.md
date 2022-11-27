@@ -130,7 +130,9 @@ Each component of the course has a minimum achievement level to get an A, B, or
 C in the course. You must reach that achievement level in _all_ of the
 categories to get an A, B, or C. Pluses and minuses will be given around the
 boundaries of these categories at the instructor's discretion.
-
+  
+~~To pass the course, you must fully pass both skill demonstrations.~~
+  
 To pass the course, you must fully pass **one of two** skill demonstrations (either initially or
       with the final make-up)
 
